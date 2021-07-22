@@ -3,4 +3,4 @@
 
 Hola Humanos!
 
-Estoy interesado en la programacion, por lo cual e iniciado cursos para poder desarrolar una nueva habilidad de acuerdo a lo que estoy estudiando. 
+Estoy interesado en la programacion, por lo cual e iniciado cursos para poder desarrollar una nueva habilidad de acuerdo a lo que estoy estudiando.
